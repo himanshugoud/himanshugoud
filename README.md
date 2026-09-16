@@ -42,24 +42,63 @@ and Lighthouse audits — rather than shipping and hoping. Currently a B.Tech
 
 ## `himanshu@github` ~ `$ neofetch`
 
+<table>
+<tr>
+<td valign="top">
+
+```text
+:::::::................................:::::::
+::::......................................::::
+::..........................................::
+................. ......   ...................
+..............  .=*#%%%%#=:.  ................
+............. :=#%%@@@@@@@@%=. ...............
+.............=%@@@@%@@@@@@@@@*.  .............
+........... =@@@#**##%@@@@@@@@#.   ...........
+.........  .#@@+-::-==+**##%%@@*.    .........
+........    -%+----:----=+*##*%+.     ........
+.......      ==+**##*==+*####**:       .......
+......      ..-=++#**--*#*###*+..       ......
+......      :=-:--==-::+******++:       ......
+......      .--:::::-=-+++===++*:       ......
+......       :------=++**++==+*+.       ......
+......       .-===*+===+*#*++++.        ......
+......        .=+==--=+++*++*#:         ......
+.......        .++=-:-==++*#*:         .......
+........        -+******####-         ........
+.........      .--=+*##%##**=.       .........
+......    ..-=+=----==+*******+-:.     .......
+.......:=+#%%@%+----==++++***@@@@%*=-:..  ....
+.:-=*#%%@@@%@%%%*=---====+*#@@@@@@@@@@%#+=-...
++%%@@@@@@%%@@%%%@%%#****#%@@@@@@@@@@@@@@@@@*:.
+@%@@%@@@%%%@%%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@%-
+```
+
+</td>
+<td valign="top">
+
 ```text
 himanshu@github
 ----------------
 OS:          Full-Stack Web Developer
 Host:        Madhav Institute of Technology and Science
-Uptime:      B.Tech, Mathematics & Computing (2023 – Present)
+Uptime:      B.Tech, Mathematics & Computing (2023 - Present)
 Location:    Gwalior, Madhya Pradesh, India
 
 Frontend:    React, Next.js, Vite, Tailwind CSS
 Backend:     Node.js, Express.js
-Database:    MongoDB (Mongoose, geospatial), Firebase (Realtime DB, Auth)
+Database:    MongoDB (Mongoose, geospatial)
+             Firebase (Realtime DB, Auth)
 Tools:       Git, GitHub, VS Code, Postman
 Deploy:      Vercel, Render, Firebase Hosting
 
-Shipped:     RaktSetu (donor-matching network), SmartPark (real-time parking)
+Shipped:     RaktSetu (donor-matching network)
+             SmartPark (real-time parking)
 ```
 
-<br/>
+</td>
+</tr>
+</table>
 
 ## Tech Stack
 
@@ -87,24 +126,11 @@ Shipped:     RaktSetu (donor-matching network), SmartPark (real-time parking)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=himanshugoud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshugoud&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshugoud&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshugoud&theme=tokyonight&hide_border=true" />
 
 </div>
 
-<details>
-<summary><b>GitHub Trophies</b></summary>
-<br/>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=himanshugoud&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-</details>
-
-<sub>Stats are pulled live from the GitHub API by third-party widgets (github-readme-stats, github-readme-streak-stats, github-profile-trophy) — no numbers here are hand-entered. If a widget is temporarily down, the rest of the profile still renders normally.</sub>
-
-<br/>
+<sub>Stats are pulled live from the GitHub API — no numbers here are hand-entered. (The stats-card and trophy widgets that used to sit here are dropped for now: their public hosting service is currently down platform-wide — a known, widely-reported outage, not specific to this profile. Swap them back in once that service is back up, or self-host via their GitHub Action for a version that never depends on a third party.)</sub>
 
 ## Featured Projects
 
