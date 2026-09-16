@@ -1,38 +1,63 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=Himanshu%20Goud&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Full-Stack%20Developer%20%7C%20B.Tech%20Student&descAlignY=80&descSize=16&descColor=8b8b8b" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=160&section=header&text=Himanshu%20Goud&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Building+full-stack+web+applications;React+%2B+Node.js+%2B+MongoDB+%2F+Firebase;B.Tech+in+Math+%26+Computing+%40+MITS+Gwalior)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Building+full-stack+web+applications;React+%2B+Node.js+%2B+MongoDB+%2F+Firebase;B.Tech+in+Math+%26+Computing+%40+MITS+Gwalior)](https://git.io/typing-svg)
 
 <p>
+<img src="https://img.shields.io/badge/🎓_B.Tech-Math_%26_Computing-6b7280?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MITS_Gwalior-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📍_Gwalior,_India-16A34A?style=for-the-badge" />
+</p>
+
+<p>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-334155?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/himanshugoud/raktsetu"><img src="https://img.shields.io/badge/Code-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/himanshu-goud-hg27"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:himanshugoud638@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/himanshugoud"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<!-- PORTFOLIO LINK — replace # once himanshu-portfolio is deployed -->
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=himanshugoud&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/himanshugoud?style=for-the-badge&color=A78BFA&label=FOLLOWERS&logo=github&logoColor=white" />
 </p>
 
 </div>
 
 <br/>
 
-## `$ whoami`
-
-```yaml
-name:       Himanshu Goud
-role:       Full-Stack Developer
-education:  B.Tech, Mathematics & Computing — MITS Gwalior (2023 – Present)
-location:   Gwalior, Madhya Pradesh, India
-focus:      React / Node.js / MongoDB / Firebase — building real, deployed full-stack apps
-```
+## About
 
 I build full-stack web applications — real-time systems, geospatial matching, and
 authenticated multi-user dashboards — and take them from local code to production
-deployments I own end-to-end. My strongest work is in React front ends backed by
-Node.js/Express + MongoDB or Firebase, with an emphasis on testing what I ship
-(Vitest suites, CI gates, Lighthouse audits) rather than shipping and hoping.
+deployments I own end-to-end.
+
+My strongest work is React front ends backed by Node.js/Express + MongoDB or
+Firebase, with an emphasis on testing what I ship — Vitest suites, CI gates,
+and Lighthouse audits — rather than shipping and hoping. Currently a B.Tech
+(Mathematics & Computing) student at MITS Gwalior.
+
+<br/>
+
+## `himanshu@github` ~ `$ neofetch`
+
+```text
+himanshu@github
+----------------
+OS:          Full-Stack Web Developer
+Host:        Madhav Institute of Technology and Science
+Uptime:      B.Tech, Mathematics & Computing (2023 – Present)
+Location:    Gwalior, Madhya Pradesh, India
+
+Frontend:    React, Next.js, Vite, Tailwind CSS
+Backend:     Node.js, Express.js
+Database:    MongoDB (Mongoose, geospatial), Firebase (Realtime DB, Auth)
+Tools:       Git, GitHub, VS Code, Postman
+Deploy:      Vercel, Render, Firebase Hosting
+
+Shipped:     RaktSetu (donor-matching network), SmartPark (real-time parking)
+```
 
 <br/>
 
@@ -46,11 +71,11 @@ Node.js/Express + MongoDB or Firebase, with an emphasis on testing what I ship
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
 
-**Backend & Database**
+**Backend & Databases**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 
-**Tools & Deployment**
+**Cloud, DevOps & Tooling**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
 
@@ -128,7 +153,7 @@ Live multi-floor parking availability with instant slot booking — no page relo
 </tr>
 </table>
 
-<sub>An earlier prototype of SmartPark (`smartpark-real-time-parking-management-system`) also exists on this account — vanilla JS with `localStorage` instead of Firebase, no tests. It's an older iteration of the same project above, not a separate flagship.</sub>
+<sub>An earlier prototype of SmartPark (`smartpark-real-time-parking-management-system`) also exists on this account — vanilla JS with `localStorage` instead of Firebase, no tests. It's an older iteration of the same project above, not a separate flagship — see the repository notes at the end of this README for what's recommended for it.</sub>
 
 <br/>
 
@@ -162,16 +187,11 @@ Madhav Institute of Technology and Science, Gwalior (MP), India — `Sept 2023 �
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/himanshu-goud-hg27"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:himanshugoud638@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/himanshugoud"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <!-- RESUME LINK — PLACEHOLDER: add a hosted/Drive link to Himanshu_MAC_Resume.pdf, then point this badge at it -->
-<a href="#"><img src="https://img.shields.io/badge/Resume-4B5563?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/📄_Resume-7C3AED?style=for-the-badge&logoColor=white" /></a>
 
-</div>
+<br/><br/>
 
-<br/>
+<sub>Full contact links (LinkedIn, Email, GitHub, Portfolio) are in the header above.</sub>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=himanshugoud&style=flat-square&color=58A6FF&label=Profile+Views" />
 </div>
