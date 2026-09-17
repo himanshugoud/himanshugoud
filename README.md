@@ -42,57 +42,6 @@ and Lighthouse audits — rather than shipping and hoping. Currently a B.Tech
 
 ## `himanshu@github` ~ `$ neofetch`
 
-<table>
-<tr>
-<td valign="top">
-
-```text
-...................... .. . . . . . . . . . . . . . . . . . . .. ......................:
-.:..:......... .. .  .. . . . .  .                   .  .  . . . . . . . ...........:...
-............ .. . . .  .  .    .   . . . . . . . . .     .  .  .  . . . .. . ...........
-.......... .. . . . . .  .  .                          .      .  .  . . . ... ..........
-....... . . . . .                                          .      .    . .  .. . .......
-..... .. . .  .   . .                                               . .   .  . .. . ....
-... .. . . . .  .                 .:-----=++=:.                         .  . .  . ... ..
-. ..  . .                       .+#%%%@@@@@@@@@%*=:                           . . . ....
-.. . .   . .                 .-+#%%%%@%@%@@@@@@@@@@%*-.                   . .  .  .  . .
- . .  .                    -=#%%@%%%%@%%@@@@@@@@@@@@@@%=                        .  . . .
-. . .  .                 :*%%@%%@@@%#%@@@@@@@@@@@@@@@@@@#.                        . . .
- .                      -%@%@@@@@%@@@@%%@@@@@@@@@@@@@@@@@%:                   .       .
-  . .                  :%@@@@@@#+=+**###%%@@@@@@@@@@@@@@@@%=                      . .  .
-.                      #@@@@@*=--:::-=++++*###%#%#%%%%@@@@@@=                         .
-  .                    *%%%%*--:::::.:::---=-=+++**#####%@@@@                        .
-                        +%%#-:-:::.....:::------=++*****+#@@=
- .                       #%=:==+******+=----==+*##%%%@%#*=##                          .
-                         :#--******#%##*+=-==+*%%###*##%+*= .
-                          :=:=*++=**#**%+::-*#%#*##**#**++*:
-                        ...:---+++#%*+*+-::-+###**#%##%#**+...                        .
-                        +*-:::.::---==-:::::=+###******+*++***
-                        -+-::::...::..:::..:==++++=--===++=***
-                         :=::::...::-:-=+==-=*+=+===-==++++**-
-                         .-:-::::-:::.:=+=+=+***+==-===++=+#*.
-                          :-------=+=---=+==+******+++==++**=
-                           -====-+*##++====+++**###*+++++**.
-                            =+====+=-=---====++****++=++*#:
-                             =*===-:::--==+*+=+=++++++*#%-                            .
-  .                           =**===-:.:.:--===+++****%#:
-                              .=+**+=----=--==++***%%%*
- .                            .--=+###*#******###%%%##-                               .
-                              .-----=*%%%%%%@%%%%%#**#-                             .
-. .  .              .       .:--------==**#*#####***##+:                              .
-   .          .        ..-+**-----:----====++*********##%+=:.                     . .  .
-. .     .         .:-=*%%@@@#:----------===+++++++***#**%@@@@#*=-:              .    .
- . . .      .:-=+#%%@@@%@%%%@+::-------====++++++*+****#@@@@@@@@@@%#+=:..         .  . .
-.     .:-+*#%%@@@@@@@%%@@@@@%@#=:::---=-========+**++#%@@@@@@@@@@@@@@@@@%#*+=:..   . . .
- .-+*#%@@@@@%@%@@@%@%@@@@@%@@@@@#*=--::-:------++*##%@@@@@@@@@@@@@@@@@@@@@@@@@@%#+:  ..
--*@@@@@%@@%@@@@@@%@@%@@@%@@@%@%@@@@%%#**+*++***%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+. ..
-@@%%@@@@@%@@@@@@@@%@%@@@@@%@@%@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%= .
-%@@@@@@%@@@@@@@@%@%@@@@%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#.
-```
-
-</td>
-<td valign="top">
-
 ```text
 himanshu@github
 ----------------
@@ -103,18 +52,12 @@ Location:    Gwalior, Madhya Pradesh, India
 
 Frontend:    React, Next.js, Vite, Tailwind CSS
 Backend:     Node.js, Express.js
-Database:    MongoDB (Mongoose, geospatial)
-             Firebase (Realtime DB, Auth)
+Database:    MongoDB (Mongoose, geospatial), Firebase (Realtime DB, Auth)
 Tools:       Git, GitHub, VS Code, Postman
 Deploy:      Vercel, Render, Firebase Hosting
 
-Shipped:     RaktSetu (donor-matching network)
-             SmartPark (real-time parking)
+Shipped:     RaktSetu (donor-matching network), SmartPark (real-time parking)
 ```
-
-</td>
-</tr>
-</table>
 
 ## Tech Stack
 
@@ -156,6 +99,18 @@ Shipped:     RaktSetu (donor-matching network)
 </div>
 
 <sub>Streak stats are pulled live from the GitHub API. The stats, languages, and trophy cards above are static SVGs regenerated once a day by a GitHub Action in this repo (`.github/workflows/update-stats.yml`) and served directly from GitHub — not from the public Vercel demo, which is unreliable.</sub>
+
+<br/>
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="profile/activity.svg" width="100%" />
+
+</div>
+
+<sub>Real daily contribution counts for the last 90 days, pulled from GitHub's own public contributions page and rendered as a chart by the same GitHub Action — no external charting service involved.</sub>
 
 <br/>
 
