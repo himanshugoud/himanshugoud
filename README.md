@@ -128,9 +128,20 @@ Shipped:     RaktSetu (donor-matching network)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshugoud&theme=tokyonight&hide_border=true" />
 
+<br/>
+
+<img src="profile/stats.svg" width="49%" />
+<img src="profile/top-langs.svg" width="49%" />
+
+<br/>
+
+<img src="profile/trophy.svg" />
+
 </div>
 
-<sub>Stats are pulled live from the GitHub API — no numbers here are hand-entered. (The stats-card and trophy widgets that used to sit here are dropped for now: their public hosting service is currently down platform-wide — a known, widely-reported outage, not specific to this profile. Swap them back in once that service is back up, or self-host via their GitHub Action for a version that never depends on a third party.)</sub>
+<sub>Streak stats are pulled live from the GitHub API. The stats, languages, and trophy cards above are static SVGs regenerated once a day by a GitHub Action in this repo (`.github/workflows/update-stats.yml`) and served directly from GitHub — not from the public Vercel demo, which is unreliable.</sub>
+
+<br/>
 
 ## Featured Projects
 
