@@ -11,6 +11,7 @@
 </p>
 
 <p>
+<!-- PORTFOLIO LINK — PLACEHOLDER: point at the himanshu-portfolio live URL once deployed -->
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-334155?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/himanshugoud/raktsetu"><img src="https://img.shields.io/badge/Code-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/himanshu-goud-hg27"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -29,14 +30,11 @@
 
 ## About
 
-I build full-stack web applications — real-time systems, geospatial matching, and
-authenticated multi-user dashboards — and take them from local code to production
-deployments I own end-to-end.
+I build full-stack web applications — real-time systems, geospatial matching, and authenticated multi-user dashboards — and take them from local code to production deployments I own end-to-end.
 
-My strongest work is React front ends backed by Node.js/Express + MongoDB or
-Firebase, with an emphasis on testing what I ship — Vitest suites, CI gates,
-and Lighthouse audits — rather than shipping and hoping. Currently a B.Tech
-(Mathematics & Computing) student at MITS Gwalior.
+My strongest work is React front ends backed by Node.js/Express + MongoDB or Firebase, with an emphasis on testing what I ship — Vitest suites, CI gates, and Lighthouse audits — rather than shipping and hoping.
+
+**Open to:** full-stack / SDE internship and placement opportunities.
 
 <br/>
 
@@ -58,6 +56,8 @@ Deploy:      Vercel, Render, Firebase Hosting
 
 Shipped:     RaktSetu (donor-matching network), SmartPark (real-time parking)
 ```
+
+<br/>
 
 ## Tech Stack
 
@@ -81,97 +81,60 @@ Shipped:     RaktSetu (donor-matching network), SmartPark (real-time parking)
 
 <br/>
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshugoud&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="profile/stats.svg" width="49%" />
-<img src="profile/top-langs.svg" width="49%" />
-
-<br/>
-
-<img src="profile/trophy.svg" />
-
-</div>
-
-<sub>Streak stats are pulled live from the GitHub API. The stats, languages, and trophy cards above are static SVGs regenerated once a day by a GitHub Action in this repo (`.github/workflows/update-stats.yml`) and served directly from GitHub — not from the public Vercel demo, which is unreliable.</sub>
-
-<br/>
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="profile/activity.svg" width="100%" />
-
-</div>
-
-<sub>Real daily contribution counts for the last 90 days, pulled from GitHub's own public contributions page and rendered as a chart by the same GitHub Action — no external charting service involved.</sub>
-
-<br/>
-
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<details open>
+<summary><b>RaktSetu — Emergency Blood Donor Network</b></summary>
+<br/>
 
-### [RaktSetu — Emergency Blood Donor Network](https://github.com/himanshugoud/raktsetu)
+Matches urgent blood requests to nearby compatible donors in real time, replacing slow, easy-to-miss email alerts with an on-screen, callable, ranked donor list.
 
-Matches urgent blood requests to nearby compatible donors in real time.
-
-**Stack:** React · Vite · Tailwind CSS · Node.js · Express · MongoDB · JWT
-
-**What it does:**
-- Applies the full 8-type ABO/Rh compatibility matrix to find every eligible donor
-- Geo-matches available donors via MongoDB 2dsphere queries, sorted nearest-first
-- Auto-escalates search radius in 4 tiers (10km → 100km) when local matches are sparse
-- Emails matched donors an accept/decline link the moment a request is raised
-- JWT auth with token-based password reset and rate limiting
-- 17 automated tests (Vitest) covering compatibility and geo-distance logic
-- Deployed across a 3-service free-tier stack (Vercel / Render / MongoDB Atlas)
+| | |
+|---|---|
+| **Stack** | React · Vite · Tailwind CSS · Node.js · Express · MongoDB · JWT |
+| **Scale** | 3-service free-tier deployment (Vercel / Render / MongoDB Atlas) |
+| **Performance** | 4-tier geo-radius escalation (10km → 100km) when local matches are sparse |
+| **Security** | JWT auth, token-based password reset, rate limiting, zero committed secrets |
+| **Impact** | Automates donor matching end-to-end; correctness validated with 17 automated Vitest tests covering compatibility and geo-distance logic |
+| **Repository** | [github.com/himanshugoud/raktsetu](https://github.com/himanshugoud/raktsetu) |
 
 **[Live Demo](https://raktsetu-phi.vercel.app/)** · **[Source](https://github.com/himanshugoud/raktsetu)**
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### [SmartPark — Real-Time Parking Management](https://github.com/himanshugoud/smartpark)
+<details open>
+<summary><b>SmartPark — Real-Time Parking Management System</b></summary>
+<br/>
 
-Live multi-floor parking availability with instant slot booking — no page reloads.
+Live multi-floor parking availability with instant slot booking and no page reloads.
 
-**Stack:** JavaScript · HTML5 · CSS3 · Firebase Realtime Database · Firebase Auth · Firebase Hosting
-
-**What it does:**
-- Real-time slot sync across every connected client via Firebase Realtime Database
-- Email/password + Google Sign-In on real Firebase Authentication
-- Live booking flow with duration and pricing calculation, personal dashboard
-- Found and fixed a real session-isolation bug leaking bookings across accounts
-- Load-tested at 50 concurrent writes — 100% success, zero conflicts
-- 45 automated tests (Vitest); CI/CD gates every deploy on the full suite passing
-- Lighthouse: 100 Accessibility, 100 Best Practices
+| | |
+|---|---|
+| **Stack** | JavaScript · HTML5 · CSS3 · Firebase Realtime Database · Firebase Auth · Firebase Hosting |
+| **Scale** | Real-time sync across every connected client, multiple floors |
+| **Performance** | Load-tested at 50 concurrent writes — 100% success, zero conflicts; Lighthouse 100 Accessibility, 100 Best Practices |
+| **Security** | Firebase Auth (email/password + Google Sign-In), write-validated security rules; found and fixed a real session-isolation bug that leaked bookings across accounts |
+| **Impact** | 45 automated Vitest tests; CI/CD gates every deploy on the full suite passing |
+| **Repository** | [github.com/himanshugoud/smartpark](https://github.com/himanshugoud/smartpark) |
 
 **[Live Demo](https://smartpark-hg.web.app/)** · **[Source](https://github.com/himanshugoud/smartpark)**
 
-</td>
-</tr>
-</table>
+</details>
 
-<sub>An earlier prototype of SmartPark (`smartpark-real-time-parking-management-system`) also exists on this account — vanilla JS with `localStorage` instead of Firebase, no tests. It's an older iteration of the same project above, not a separate flagship — see the repository notes at the end of this README for what's recommended for it.</sub>
+<sub>An earlier prototype of SmartPark (`smartpark-real-time-parking-management-system`) also exists on this account — vanilla JS with `localStorage` instead of Firebase, no tests. It's an older iteration of the project above, not a separate flagship.</sub>
 
 <br/>
 
-## Experience & Activities
+## Achievements
 
-**Public Relations Representative** — Mood Indigo, IIT Bombay `Aug 2025 – Dec 2025`
-Ranked 6th out of 530 participants pan-India in digital outreach and engagement for the 55th edition of Mood Indigo (Asia's largest college cultural festival) — 74,090 points.
+<div align="center">
 
-**Core Team Member** — Soft Computing Research Society (SCRS) `Sept 2025 – Present`
-Planned and executed technical workshops for 100+ student attendees, owning end-to-end logistics and coordinating a 20-member core committee.
+| Recognition | Details |
+|---|---|
+| Public Relations Representative — Mood Indigo, IIT Bombay | Ranked 6th of 530 participants pan-India in digital outreach and engagement for the 55th edition (Aug – Dec 2025), Asia's largest college cultural festival |
+| Core Team Member — Soft Computing Research Society | Planned and executed technical workshops for 100+ student attendees, coordinating a 20-member core committee (Sept 2025 – Present) |
+
+</div>
 
 <br/>
 
@@ -184,22 +147,97 @@ Madhav Institute of Technology and Science, Gwalior (MP), India — `Sept 2023 �
 
 ## Certifications
 
-| Certificate | Issuer | Score | Date |
-|---|---|---|---|
-| [Cloud Computing](https://drive.google.com/file/d/1-QCZu5jftUwa3eXb6vSCYJ6RzgqOrCSA/view?usp=drivesdk) | NPTEL | 82% | May 2026 |
-| [Introduction to Algorithms and Analysis](https://drive.google.com/file/d/1bqfN27nmWVjTGjmzEvLcizEEWHNN4guF/view?usp=drivesdk) | NPTEL | 75% | Nov 2025 |
+**NPTEL**
+
+| Certificate | Score | Date |
+|---|---|---|
+| [Cloud Computing](https://drive.google.com/file/d/1-QCZu5jftUwa3eXb6vSCYJ6RzgqOrCSA/view?usp=drivesdk) | 82% | May 2026 |
+| [Introduction to Algorithms and Analysis](https://drive.google.com/file/d/1bqfN27nmWVjTGjmzEvLcizEEWHNN4guF/view?usp=drivesdk) | 75% | Nov 2025 |
 
 <br/>
 
-## Contact
+## GitHub Analytics
 
 <div align="center">
 
-<!-- RESUME LINK — PLACEHOLDER: add a hosted/Drive link to Himanshu_MAC_Resume.pdf, then point this badge at it -->
-<a href="#"><img src="https://img.shields.io/badge/📄_Resume-7C3AED?style=for-the-badge&logoColor=white" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshugoud&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
+<br/>
 
-<sub>Full contact links (LinkedIn, Email, GitHub, Portfolio) are in the header above.</sub>
+<img src="profile/stats.svg" width="49%" />
+<img src="profile/top-langs.svg" width="49%" />
+
+</div>
+
+<sub>Streak stats are pulled live from the GitHub API. The stats and languages cards are static SVGs regenerated once a day by a GitHub Action in this repo (`.github/workflows/update-stats.yml`) and served directly from GitHub — not from the public Vercel demo, which is unreliable.</sub>
+
+<br/>
+
+## GitHub Trophies
+
+<div align="center">
+<img src="profile/trophy.svg" />
+</div>
+
+<br/>
+
+## Contribution Activity
+
+<div align="center">
+<img src="profile/activity.svg" width="100%" />
+</div>
+
+<sub>Real daily contribution counts for the last 90 days, pulled from GitHub's own public contributions page and rendered as a chart by the same GitHub Action — no external charting service involved.</sub>
+
+<br/>
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile/snake.svg" />
+  <img alt="contribution snake animation" src="profile/snake.svg" />
+</picture>
+
+</div>
+
+<sub>Animated from real contribution data by the official <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action, regenerated daily alongside the cards above.</sub>
+
+<br/>
+
+## Current Focus
+
+```yaml
+Learning:   Advanced data structures & system design fundamentals
+Building:   Refining RaktSetu and SmartPark; scoping the next full-stack project
+Exploring:  Deployment patterns across Vercel, Render, and Firebase
+Open to:    Full-stack / SDE internship and placement opportunities
+```
+
+<br/>
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:himanshugoud638@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/himanshu-goud-hg27"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/himanshugoud"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<!-- PORTFOLIO LINK — PLACEHOLDER: point at the himanshu-portfolio live URL once deployed -->
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-334155?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<!-- RESUME LINK — PLACEHOLDER: add a hosted/Drive link to Himanshu_MAC_Resume.pdf -->
+<a href="#"><img src="https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub>Real projects, real tests, real deployments — no filler.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer" width="100%"/>
 
 </div>
