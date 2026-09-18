@@ -40,22 +40,9 @@ My strongest work is React front ends backed by Node.js/Express + MongoDB or Fir
 
 ## `himanshu@github` ~ `$ neofetch`
 
-```text
-himanshu@github
-----------------
-OS:          Full-Stack Web Developer
-Host:        Madhav Institute of Technology and Science
-Uptime:      B.Tech, Mathematics & Computing (2023 - Present)
-Location:    Gwalior, Madhya Pradesh, India
-
-Frontend:    React, Next.js, Vite, Tailwind CSS
-Backend:     Node.js, Express.js
-Database:    MongoDB (Mongoose, geospatial), Firebase (Realtime DB, Auth)
-Tools:       Git, GitHub, VS Code, Postman
-Deploy:      Vercel, Render, Firebase Hosting
-
-Shipped:     RaktSetu (donor-matching network), SmartPark (real-time parking)
-```
+<div align="center">
+<img src="profile/terminal.svg" width="100%" />
+</div>
 
 <br/>
 
