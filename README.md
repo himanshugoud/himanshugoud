@@ -14,7 +14,7 @@
 <!-- PORTFOLIO LINK — PLACEHOLDER: point at the himanshu-portfolio live URL once deployed -->
 <a href="#"><img src="https://cdn.simpleicons.org/vercel/000000" width="40" height="40" title="Portfolio"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/himanshu-goud-hg27"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" title="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/himanshu-goud-hg27"><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.1/svgs/brands/linkedin.svg" width="40" height="40" title="LinkedIn"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:himanshugoud638@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" title="Gmail"/></a>
 </p>
@@ -78,7 +78,6 @@ Matches urgent blood requests to nearby compatible donors in real time, replacin
 | **Performance** | 4-tier geo-radius escalation (10km → 100km) when local matches are sparse |
 | **Security** | JWT auth, token-based password reset, rate limiting, zero committed secrets |
 | **Impact** | Automates donor matching end-to-end; correctness validated with 17 automated Vitest tests covering compatibility and geo-distance logic |
-| **Repository** | [github.com/himanshugoud/raktsetu](https://github.com/himanshugoud/raktsetu) |
 
 <p>
 <a href="https://raktsetu-phi.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-27AE60?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -100,7 +99,6 @@ Live multi-floor parking availability with instant slot booking and no page relo
 | **Performance** | Load-tested at 50 concurrent writes — 100% success, zero conflicts; Lighthouse 100 Accessibility, 100 Best Practices |
 | **Security** | Firebase Auth (email/password + Google Sign-In), write-validated security rules; found and fixed a real session-isolation bug that leaked bookings across accounts |
 | **Impact** | 45 automated Vitest tests; CI/CD gates every deploy on the full suite passing |
-| **Repository** | [github.com/himanshugoud/smartpark](https://github.com/himanshugoud/smartpark) |
 
 <p>
 <a href="https://smartpark-hg.web.app/"><img src="https://img.shields.io/badge/Live_Demo-27AE60?style=for-the-badge&logo=firebase&logoColor=white" /></a>
@@ -128,23 +126,13 @@ Live multi-floor parking availability with instant slot booking and no page relo
 
 **NPTEL**
 
-<table cellpadding="12" cellspacing="0" width="100%">
-<tr>
-<th align="left">Certificate</th>
-<th align="left">Score</th>
-<th align="left">Date</th>
-</tr>
-<tr>
-<td><a href="https://drive.google.com/file/d/1-QCZu5jftUwa3eXb6vSCYJ6RzgqOrCSA/view?usp=drivesdk">Cloud Computing</a></td>
-<td>82%</td>
-<td>May 2026</td>
-</tr>
-<tr>
-<td><a href="https://drive.google.com/file/d/1bqfN27nmWVjTGjmzEvLcizEEWHNN4guF/view?usp=drivesdk">Introduction to Algorithms and Analysis</a></td>
-<td>75%</td>
-<td>Nov 2025</td>
-</tr>
-</table>
+> **[Cloud Computing](https://drive.google.com/file/d/1-QCZu5jftUwa3eXb6vSCYJ6RzgqOrCSA/view?usp=drivesdk)**
+> Score: 82% &nbsp;·&nbsp; May 2026
+
+<br/>
+
+> **[Introduction to Algorithms and Analysis](https://drive.google.com/file/d/1bqfN27nmWVjTGjmzEvLcizEEWHNN4guF/view?usp=drivesdk)**
+> Score: 75% &nbsp;·&nbsp; Nov 2025
 
 <br/>
 
@@ -160,11 +148,11 @@ Live multi-floor parking availability with instant slot booking and no page relo
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top" align="center">
-<img src="profile/stats.svg" width="480" height="200" />
+<td width="50%" align="center">
+<img src="profile/stats.svg" width="455" height="190" />
 </td>
-<td width="50%" valign="top" align="center">
-<img src="profile/top-langs.svg" width="480" height="200" />
+<td width="50%" align="center">
+<img src="profile/top-langs.svg" width="345" height="190" />
 </td>
 </tr>
 </table>
@@ -211,7 +199,7 @@ Open to:    Full-stack / SDE internship and placement opportunities
 <p>
 <a href="#"><img src="https://cdn.simpleicons.org/vercel/000000" width="40" height="40" title="Portfolio"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/himanshu-goud-hg27"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" title="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/himanshu-goud-hg27"><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.1/svgs/brands/linkedin.svg" width="40" height="40" title="LinkedIn"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:himanshugoud638@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" title="Gmail"/></a>
 </p>
