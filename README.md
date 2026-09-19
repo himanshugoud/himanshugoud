@@ -41,23 +41,11 @@ Built and deployed 2 tested, real-world applications — real-time architecture,
 
 <br/>
 
-## Tech Stack
+## 💻 Tech Stack
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,c,html,css" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-
-**Cloud, DevOps & Tooling**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,c,html,css,react,nextjs,vite,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,vercel,postman" />
+</div>
 
 <sub>Render is also part of my deployment stack (backend hosting for RaktSetu) — not shown above, skillicons.dev has no icon for it.</sub>
 
