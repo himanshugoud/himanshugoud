@@ -31,7 +31,11 @@
 
 <br/>
 
-## About
+<div align="center">
+
+## 👤 𝙰𝚋𝚘𝚞𝚝
+
+</div>
 
 Full-stack developer who ships production-grade systems, not tutorials.
 
@@ -41,7 +45,11 @@ Built and deployed 2 tested, real-world applications — real-time architecture,
 
 <br/>
 
-## 💻 Tech Stack
+<div align="center">
+
+## 💻 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
+
+</div>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,c,html,css,react,nextjs,vite,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,vercel,postman" />
@@ -51,7 +59,11 @@ Built and deployed 2 tested, real-world applications — real-time architecture,
 
 <br/>
 
-## Featured Projects
+<div align="center">
+
+## 🚀 𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚍 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
+
+</div>
 
 <details open>
 <summary><b>RaktSetu — Emergency Blood Donor Network</b></summary>
@@ -97,7 +109,11 @@ Live multi-floor parking availability with instant slot booking and no page relo
 
 <br/>
 
-## GitHub Analytics
+<div align="center">
+
+## 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜
+
+</div>
 
 <div align="center">
 
@@ -120,7 +136,11 @@ Live multi-floor parking availability with instant slot booking and no page relo
 
 <br/>
 
-## Contribution Activity
+<div align="center">
+
+## 📈 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
+
+</div>
 
 <div align="center">
 <img src="profile/activity.svg" width="100%" />
@@ -128,7 +148,11 @@ Live multi-floor parking availability with instant slot booking and no page relo
 
 <br/>
 
-## Contribution Snake
+<div align="center">
+
+## 🐍 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝚂𝚗𝚊𝚔𝚎
+
+</div>
 
 <div align="center">
 
@@ -142,7 +166,11 @@ Live multi-floor parking availability with instant slot booking and no page relo
 
 <br/>
 
-## Current Focus
+<div align="center">
+
+## 🎯 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝙵𝚘𝚌𝚞𝚜
+
+</div>
 
 ```yaml
 Learning:   Advanced data structures & system design fundamentals
@@ -153,11 +181,16 @@ Open to:    Full-stack / SDE internship and placement opportunities
 
 <br/>
 
-## Connect
+<div align="center">
+
+## 📬 𝙲𝚘𝚗𝚗𝚎𝚌𝚝
+
+</div>
 
 <div align="center">
 
 <p>
+<!-- PORTFOLIO LINK — PLACEHOLDER: point at the himanshu-portfolio live URL once deployed -->
 <a href="#"><img src="profile/icons/portfolio.png" width="44" height="44" title="Portfolio"/></a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/himanshu-goud-hg27"><img src="profile/icons/linkedin.png" width="44" height="44" title="LinkedIn"/></a>
