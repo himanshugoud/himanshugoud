@@ -30,13 +30,6 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate trophy card
-        uses: soulteary/github-profile-trophy-action@v1.1.0
-        with:
-          options: "username=himanshugoud&theme=tokyonight&no-frame=true&row=1&column=6"
-          path: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Generate contribution activity chart
         run: python3 generate_activity_graph.py himanshugoud
 
@@ -52,6 +45,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/stats.svg profile/top-langs.svg profile/trophy.svg profile/activity.svg profile/snake.svg profile/snake-dark.svg
+          git add profile/stats.svg profile/top-langs.svg profile/activity.svg profile/snake.svg profile/snake-dark.svg
           git commit -m "Update README stat cards" || echo "Nothing to commit"
           git push
