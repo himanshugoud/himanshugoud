@@ -137,16 +137,7 @@ Live multi-floor parking availability with instant slot booking and no page relo
 <td>82%</td>
 <td>May 2026</td>
 </tr>
-</table>
-
-<br/>
-
-<table width="100%">
-<tr>
-<th align="left">Certificate</th>
-<th align="left">Score</th>
-<th align="left">Date</th>
-</tr>
+<tr><td colspan="3">&nbsp;</td></tr>
 <tr>
 <td><a href="https://drive.google.com/file/d/1bqfN27nmWVjTGjmzEvLcizEEWHNN4guF/view?usp=drivesdk">Introduction to Algorithms and Analysis</a></td>
 <td>75%</td>
