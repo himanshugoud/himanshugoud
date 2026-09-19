@@ -12,9 +12,11 @@
 
 <p>
 <!-- PORTFOLIO LINK — PLACEHOLDER: point at the himanshu-portfolio live URL once deployed -->
-<a href="#"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white" height="32" title="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/himanshu-goud-hg27"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" title="LinkedIn"/></a>
-<a href="mailto:himanshugoud638@gmail.com"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32" title="Gmail"/></a>
+<a href="#"><img src="profile/icons/portfolio.png" width="44" height="44" title="Portfolio"/></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/himanshu-goud-hg27"><img src="profile/icons/linkedin.png" width="44" height="44" title="LinkedIn"/></a>
+&nbsp;&nbsp;
+<a href="mailto:himanshugoud638@gmail.com"><img src="profile/icons/gmail.png" width="44" height="44" title="Gmail"/></a>
 </p>
 
 </div>
@@ -131,14 +133,24 @@ Live multi-floor parking availability with instant slot booking and no page relo
 <th align="left">Date</th>
 </tr>
 <tr>
-<td><a href="https://drive.google.com/file/d/1-QCZu5jftUwa3eXb6vSCYJ6RzgqOrCSA/view?usp=drivesdk">Cloud Computing</a><br/>&nbsp;</td>
-<td>82%<br/>&nbsp;</td>
-<td>May 2026<br/>&nbsp;</td>
+<td><a href="https://drive.google.com/file/d/1-QCZu5jftUwa3eXb6vSCYJ6RzgqOrCSA/view?usp=drivesdk">Cloud Computing</a></td>
+<td>82%</td>
+<td>May 2026</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<th align="left">Certificate</th>
+<th align="left">Score</th>
+<th align="left">Date</th>
 </tr>
 <tr>
-<td><a href="https://drive.google.com/file/d/1bqfN27nmWVjTGjmzEvLcizEEWHNN4guF/view?usp=drivesdk">Introduction to Algorithms and Analysis</a><br/>&nbsp;</td>
-<td>75%<br/>&nbsp;</td>
-<td>Nov 2025<br/>&nbsp;</td>
+<td><a href="https://drive.google.com/file/d/1bqfN27nmWVjTGjmzEvLcizEEWHNN4guF/view?usp=drivesdk">Introduction to Algorithms and Analysis</a></td>
+<td>75%</td>
+<td>Nov 2025</td>
 </tr>
 </table>
 
@@ -205,9 +217,11 @@ Open to:    Full-stack / SDE internship and placement opportunities
 <div align="center">
 
 <p>
-<a href="#"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white" height="32" title="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/himanshu-goud-hg27"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" title="LinkedIn"/></a>
-<a href="mailto:himanshugoud638@gmail.com"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32" title="Gmail"/></a>
+<a href="#"><img src="profile/icons/portfolio.png" width="44" height="44" title="Portfolio"/></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/himanshu-goud-hg27"><img src="profile/icons/linkedin.png" width="44" height="44" title="LinkedIn"/></a>
+&nbsp;&nbsp;
+<a href="mailto:himanshugoud638@gmail.com"><img src="profile/icons/gmail.png" width="44" height="44" title="Gmail"/></a>
 </p>
 
 </div>
