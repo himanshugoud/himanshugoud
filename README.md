@@ -133,12 +133,12 @@ Live multi-floor parking availability with instant slot booking and no page relo
 <th align="left">Date</th>
 </tr>
 <tr>
-<td><a href="https://drive.google.com/file/d/1-QCZu5jftUwa3eXb6vSCYJ6RzgqOrCSA/view?usp=drivesdk"><b>Cloud Computing</b></a><br/>&nbsp;</td>
+<td><a href="https://drive.google.com/file/d/1-QCZu5jftUwa3eXb6vSCYJ6RzgqOrCSA/view?usp=drivesdk"><b>Cloud Computing</b></a></td>
 <td>82%</td>
 <td>May 2026</td>
 </tr>
 <tr>
-<td><a href="https://drive.google.com/file/d/1bqfN27nmWVjTGjmzEvLcizEEWHNN4guF/view?usp=drivesdk"><b>Introduction to Algorithms and Analysis</b></a><br/>&nbsp;</td>
+<td><a href="https://drive.google.com/file/d/1bqfN27nmWVjTGjmzEvLcizEEWHNN4guF/view?usp=drivesdk"><b>Introduction to Algorithms and Analysis</b></a></td>
 <td>75%</td>
 <td>Nov 2025</td>
 </tr>
