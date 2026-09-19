@@ -12,15 +12,11 @@
 
 <p>
 <!-- PORTFOLIO LINK — PLACEHOLDER: point at the himanshu-portfolio live URL once deployed -->
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-334155?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/himanshugoud"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/himanshu-goud-hg27"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:himanshugoud638@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=himanshugoud&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/himanshugoud?style=for-the-badge&color=A78BFA&label=FOLLOWERS&logo=github&logoColor=white" />
+<a href="#"><img src="https://cdn.simpleicons.org/vercel/000000" width="40" height="40" title="Portfolio"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/himanshu-goud-hg27"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" title="LinkedIn"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:himanshugoud638@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" title="Gmail"/></a>
 </p>
 
 </div>
@@ -37,9 +33,9 @@
 
 ## About
 
-I build full-stack web applications — real-time systems, geospatial matching, and authenticated multi-user dashboards — and take them from local code to production deployments I own end-to-end.
+Full-stack developer who ships production-grade systems, not tutorials.
 
-My strongest work is React front ends backed by Node.js/Express + MongoDB or Firebase, with an emphasis on testing what I ship — Vitest suites, CI gates, and Lighthouse audits — rather than shipping and hoping.
+Built and deployed 2 tested, real-world applications — real-time architecture, geospatial matching, secure auth, CI-gated releases.
 
 **Open to:** full-stack / SDE internship and placement opportunities.
 
@@ -84,7 +80,10 @@ Matches urgent blood requests to nearby compatible donors in real time, replacin
 | **Impact** | Automates donor matching end-to-end; correctness validated with 17 automated Vitest tests covering compatibility and geo-distance logic |
 | **Repository** | [github.com/himanshugoud/raktsetu](https://github.com/himanshugoud/raktsetu) |
 
-**[Live Demo](https://raktsetu-phi.vercel.app/)** · **[Source](https://github.com/himanshugoud/raktsetu)**
+<p>
+<a href="https://raktsetu-phi.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-27AE60?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/himanshugoud/raktsetu"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 </details>
 
@@ -103,11 +102,12 @@ Live multi-floor parking availability with instant slot booking and no page relo
 | **Impact** | 45 automated Vitest tests; CI/CD gates every deploy on the full suite passing |
 | **Repository** | [github.com/himanshugoud/smartpark](https://github.com/himanshugoud/smartpark) |
 
-**[Live Demo](https://smartpark-hg.web.app/)** · **[Source](https://github.com/himanshugoud/smartpark)**
+<p>
+<a href="https://smartpark-hg.web.app/"><img src="https://img.shields.io/badge/Live_Demo-27AE60?style=for-the-badge&logo=firebase&logoColor=white" /></a>
+<a href="https://github.com/himanshugoud/smartpark"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 </details>
-
-<sub>An earlier prototype of SmartPark (`smartpark-real-time-parking-management-system`) also exists on this account — vanilla JS with `localStorage` instead of Firebase, no tests. It's an older iteration of the project above, not a separate flagship.</sub>
 
 <br/>
 
@@ -124,21 +124,27 @@ Live multi-floor parking availability with instant slot booking and no page relo
 
 <br/>
 
-## Education
-
-**B.Tech, Mathematics and Computing**
-Madhav Institute of Technology and Science, Gwalior (MP), India — `Sept 2023 – Present`
-
-<br/>
-
 ## Certifications
 
 **NPTEL**
 
-| Certificate | Score | Date |
-|---|---|---|
-| [Cloud Computing](https://drive.google.com/file/d/1-QCZu5jftUwa3eXb6vSCYJ6RzgqOrCSA/view?usp=drivesdk) | 82% | May 2026 |
-| [Introduction to Algorithms and Analysis](https://drive.google.com/file/d/1bqfN27nmWVjTGjmzEvLcizEEWHNN4guF/view?usp=drivesdk) | 75% | Nov 2025 |
+<table cellpadding="12" cellspacing="0" width="100%">
+<tr>
+<th align="left">Certificate</th>
+<th align="left">Score</th>
+<th align="left">Date</th>
+</tr>
+<tr>
+<td><a href="https://drive.google.com/file/d/1-QCZu5jftUwa3eXb6vSCYJ6RzgqOrCSA/view?usp=drivesdk">Cloud Computing</a></td>
+<td>82%</td>
+<td>May 2026</td>
+</tr>
+<tr>
+<td><a href="https://drive.google.com/file/d/1bqfN27nmWVjTGjmzEvLcizEEWHNN4guF/view?usp=drivesdk">Introduction to Algorithms and Analysis</a></td>
+<td>75%</td>
+<td>Nov 2025</td>
+</tr>
+</table>
 
 <br/>
 
@@ -155,15 +161,13 @@ Madhav Institute of Technology and Science, Gwalior (MP), India — `Sept 2023 �
 <table width="100%">
 <tr>
 <td width="50%" valign="top" align="center">
-<img src="profile/stats.svg" width="100%" />
+<img src="profile/stats.svg" width="480" height="200" />
 </td>
 <td width="50%" valign="top" align="center">
-<img src="profile/top-langs.svg" width="100%" />
+<img src="profile/top-langs.svg" width="480" height="200" />
 </td>
 </tr>
 </table>
-
-<sub>Streak stats are pulled live from the GitHub API. The stats and languages cards are static SVGs regenerated once a day by a GitHub Action in this repo (`.github/workflows/update-stats.yml`) and served directly from GitHub — not from the public Vercel demo, which is unreliable.</sub>
 
 <br/>
 
@@ -172,8 +176,6 @@ Madhav Institute of Technology and Science, Gwalior (MP), India — `Sept 2023 �
 <div align="center">
 <img src="profile/activity.svg" width="100%" />
 </div>
-
-<sub>Real daily contribution counts for the last 90 days, pulled from GitHub's own public contributions page and rendered as a chart by the same GitHub Action — no external charting service involved.</sub>
 
 <br/>
 
@@ -188,8 +190,6 @@ Madhav Institute of Technology and Science, Gwalior (MP), India — `Sept 2023 �
 </picture>
 
 </div>
-
-<sub>Animated from real contribution data by the official <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action, regenerated daily alongside the cards above.</sub>
 
 <br/>
 
@@ -209,16 +209,11 @@ Open to:    Full-stack / SDE internship and placement opportunities
 <div align="center">
 
 <p>
-<a href="https://github.com/himanshugoud"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/himanshu-goud-hg27"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<!-- PORTFOLIO LINK — PLACEHOLDER: point at the himanshu-portfolio live URL once deployed -->
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-334155?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
-<p>
-<a href="mailto:himanshugoud638@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<!-- RESUME LINK — PLACEHOLDER: add a hosted/Drive link to Himanshu_MAC_Resume.pdf -->
-<a href="#"><img src="https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&logoColor=white" /></a>
+<a href="#"><img src="https://cdn.simpleicons.org/vercel/000000" width="40" height="40" title="Portfolio"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/himanshu-goud-hg27"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" title="LinkedIn"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:himanshugoud638@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" title="Gmail"/></a>
 </p>
 
 </div>
