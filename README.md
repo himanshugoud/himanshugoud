@@ -109,43 +109,6 @@ Live multi-floor parking availability with instant slot booking and no page relo
 
 <br/>
 
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| Public Relations Representative — Mood Indigo, IIT Bombay | Ranked 6th of 530 participants pan-India in digital outreach and engagement for the 55th edition (Aug – Dec 2025), Asia's largest college cultural festival |
-| Core Team Member — Soft Computing Research Society | Planned and executed technical workshops for 100+ student attendees, coordinating a 20-member core committee (Sept 2025 – Present) |
-
-</div>
-
-<br/>
-
-## Certifications
-
-**NPTEL**
-
-<table width="100%">
-<tr>
-<th align="left">Certificate</th>
-<th align="left">Score</th>
-<th align="left">Date</th>
-</tr>
-<tr>
-<td><a href="https://drive.google.com/file/d/1-QCZu5jftUwa3eXb6vSCYJ6RzgqOrCSA/view?usp=drivesdk"><b>Cloud Computing</b></a></td>
-<td>82%</td>
-<td>May 2026</td>
-</tr>
-<tr>
-<td><a href="https://drive.google.com/file/d/1bqfN27nmWVjTGjmzEvLcizEEWHNN4guF/view?usp=drivesdk"><b>Introduction to Algorithms and Analysis</b></a></td>
-<td>75%</td>
-<td>Nov 2025</td>
-</tr>
-</table>
-
-<br/>
-
 ## GitHub Analytics
 
 <div align="center">
