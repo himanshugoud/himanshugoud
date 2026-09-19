@@ -13,10 +13,9 @@
 <p>
 <!-- PORTFOLIO LINK — PLACEHOLDER: point at the himanshu-portfolio live URL once deployed -->
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-334155?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/himanshugoud/raktsetu"><img src="https://img.shields.io/badge/Code-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/himanshugoud"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/himanshu-goud-hg27"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:himanshugoud638@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/himanshugoud"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p>
@@ -28,6 +27,14 @@
 
 <br/>
 
+## `himanshu@github` ~ `$ neofetch`
+
+<div align="center">
+<img src="profile/terminal.svg" width="100%" />
+</div>
+
+<br/>
+
 ## About
 
 I build full-stack web applications — real-time systems, geospatial matching, and authenticated multi-user dashboards — and take them from local code to production deployments I own end-to-end.
@@ -35,14 +42,6 @@ I build full-stack web applications — real-time systems, geospatial matching, 
 My strongest work is React front ends backed by Node.js/Express + MongoDB or Firebase, with an emphasis on testing what I ship — Vitest suites, CI gates, and Lighthouse audits — rather than shipping and hoping.
 
 **Open to:** full-stack / SDE internship and placement opportunities.
-
-<br/>
-
-## `himanshu@github` ~ `$ neofetch`
-
-<div align="center">
-<img src="profile/terminal.svg" width="100%" />
-</div>
 
 <br/>
 
@@ -149,22 +148,22 @@ Madhav Institute of Technology and Science, Gwalior (MP), India — `Sept 2023 �
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshugoud&theme=tokyonight&hide_border=true" />
 
+</div>
+
 <br/>
 
-<img src="profile/stats.svg" width="49%" />
-<img src="profile/top-langs.svg" width="49%" />
-
-</div>
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+<img src="profile/stats.svg" width="100%" />
+</td>
+<td width="50%" valign="top" align="center">
+<img src="profile/top-langs.svg" width="100%" />
+</td>
+</tr>
+</table>
 
 <sub>Streak stats are pulled live from the GitHub API. The stats and languages cards are static SVGs regenerated once a day by a GitHub Action in this repo (`.github/workflows/update-stats.yml`) and served directly from GitHub — not from the public Vercel demo, which is unreliable.</sub>
-
-<br/>
-
-## GitHub Trophies
-
-<div align="center">
-<img src="profile/trophy.svg" />
-</div>
 
 <br/>
 
@@ -209,13 +208,18 @@ Open to:    Full-stack / SDE internship and placement opportunities
 
 <div align="center">
 
-<a href="mailto:himanshugoud638@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/himanshu-goud-hg27"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p>
 <a href="https://github.com/himanshugoud"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/himanshu-goud-hg27"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!-- PORTFOLIO LINK — PLACEHOLDER: point at the himanshu-portfolio live URL once deployed -->
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-334155?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p>
+<a href="mailto:himanshugoud638@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <!-- RESUME LINK — PLACEHOLDER: add a hosted/Drive link to Himanshu_MAC_Resume.pdf -->
 <a href="#"><img src="https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&logoColor=white" /></a>
+</p>
 
 </div>
 
