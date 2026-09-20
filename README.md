@@ -53,9 +53,8 @@ Built and deployed 2 tested, real-world applications — real-time architecture,
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,c,html,css,react,nextjs,vite,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,vercel,postman" />
+<img src="profile/icons/render.png" width="48" height="48" title="Render" />
 </div>
-
-<sub>Render is also part of my deployment stack (backend hosting for RaktSetu) — not shown above, skillicons.dev has no icon for it.</sub>
 
 <br/>
 
