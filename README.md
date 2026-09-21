@@ -1,5 +1,3 @@
-## `himanshu@github` ~ `$ neofetch`
-
 <div align="center">
 <img src="profile/terminal.svg" width="100%" />
 </div>
