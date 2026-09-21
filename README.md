@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=160&section=header&text=Himanshu%20Goud&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Building+full-stack+web+applications;React+%2B+Node.js+%2B+MongoDB+%2F+Firebase;B.Tech+in+Math+%26+Computing+%40+MITS+Gwalior)](https://git.io/typing-svg)
-
 <p>
 <img src="https://img.shields.io/badge/🎓_B.Tech-Math_%26_Computing-6b7280?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MITS_Gwalior-7C3AED?style=for-the-badge" />
