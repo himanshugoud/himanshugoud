@@ -1,26 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=160&section=header&text=Himanshu%20Goud&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
-
-<p>
-<img src="https://img.shields.io/badge/🎓_B.Tech-Math_%26_Computing-6b7280?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MITS_Gwalior-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/📍_Gwalior,_India-16A34A?style=for-the-badge" />
-</p>
-
-<p>
-<!-- PORTFOLIO LINK — PLACEHOLDER: point at the himanshu-portfolio live URL once deployed -->
-<a href="#"><img src="profile/icons/portfolio.png" width="44" height="44" title="Portfolio"/></a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/himanshu-goud-hg27"><img src="profile/icons/linkedin.png" width="44" height="44" title="LinkedIn"/></a>
-&nbsp;&nbsp;
-<a href="mailto:himanshugoud638@gmail.com"><img src="profile/icons/gmail.png" width="44" height="44" title="Gmail"/></a>
-</p>
-
-</div>
-
-<br/>
-
 ## `himanshu@github` ~ `$ neofetch`
 
 <div align="center">
