@@ -52,8 +52,7 @@ Built and deployed 2 tested, real-world applications — real-time architecture,
 </div>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,c,html,css,react,nextjs,vite,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,vercel,postman" />
-<img src="profile/icons/render.png" width="48" height="48" title="Render" />
+<img src="https://skillicons.dev/icons?i=js,ts,c,html,css,react,nextjs,vite,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,vercel,postman" /><img src="profile/icons/render.png" width="48" height="48" title="Render" />
 </div>
 
 <br/>
