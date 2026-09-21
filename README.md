@@ -51,7 +51,7 @@ Built and deployed 2 tested, real-world applications — real-time architecture,
 
 </div>
 
-<div align="center">
+<div align="left">
 <img src="https://skillicons.dev/icons?i=js" width="48" height="48" /><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" /><img src="https://skillicons.dev/icons?i=c" width="48" height="48" /><img src="https://skillicons.dev/icons?i=html" width="48" height="48" /><img src="https://skillicons.dev/icons?i=css" width="48" height="48" /><img src="https://skillicons.dev/icons?i=react" width="48" height="48" /><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" /><img src="https://skillicons.dev/icons?i=vite" width="48" height="48" /><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" /><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" /><img src="https://skillicons.dev/icons?i=express" width="48" height="48" /><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" /><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" /><img src="https://skillicons.dev/icons?i=git" width="48" height="48" /><img src="https://skillicons.dev/icons?i=github" width="48" height="48" /><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" /><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" /><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" /><img src="profile/icons/render.png" width="48" height="48" title="Render" />
 </div>
 
