@@ -143,20 +143,13 @@ Live multi-floor parking availability with instant slot booking and no page relo
 
 </div>
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/Learning-DSA_%26_System_Design-8b5cf6?style=for-the-badge"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Building-RaktSetu_%26_SmartPark-6d28d9?style=for-the-badge"/></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/Exploring-Vercel_%C2%B7_Render_%C2%B7_Firebase-4c1d95?style=for-the-badge"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Open_to-Internships_%26_Placements-16a34a?style=for-the-badge"/></td>
-</tr>
-</table>
-
-</div>
+![Learning](https://img.shields.io/badge/Learning-DSA_%26_System_Design-8b5cf6?style=for-the-badge)
+<br/>
+![Building](https://img.shields.io/badge/Building-RaktSetu_%26_SmartPark-6d28d9?style=for-the-badge)
+<br/>
+![Exploring](https://img.shields.io/badge/Exploring-Vercel_%C2%B7_Render_%C2%B7_Firebase-4c1d95?style=for-the-badge)
+<br/>
+![Open to](https://img.shields.io/badge/Open_to-Internships_%26_Placements-16a34a?style=for-the-badge)
 
 <br/>
 
