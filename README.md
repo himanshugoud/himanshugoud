@@ -139,19 +139,12 @@ Live multi-floor parking availability with instant slot booking and no page relo
 
 <div align="center">
 
-## 🎯 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝙵𝚘𝚌𝚞𝚜
+## 🎯 Current Focus
 
-</div>
-
-![Learning](https://img.shields.io/badge/Learning-DSA_%26_System_Design-8b5cf6?style=for-the-badge)
-<br/>
-![Building](https://img.shields.io/badge/Building-RaktSetu_%26_SmartPark-6d28d9?style=for-the-badge)
-<br/>
-![Exploring](https://img.shields.io/badge/Exploring-Vercel_%C2%B7_Render_%C2%B7_Firebase-4c1d95?style=for-the-badge)
-<br/>
-![Open to](https://img.shields.io/badge/Open_to-Internships_%26_Placements-16a34a?style=for-the-badge)
-
-<br/>
+|  |  |
+|:---|:---|
+| ![Learning](https://img.shields.io/badge/LEARNING-DSA_%26_System_Design-8b5cf6?style=for-the-badge) | ![Building](https://img.shields.io/badge/BUILDING-RaktSetu_%26_SmartPark-6d28d9?style=for-the-badge) |
+| ![Exploring](https://img.shields.io/badge/EXPLORING-Vercel_%C2%B7_Render_%C2%B7_Firebase-4c1d95?style=for-the-badge) | ![Open to](https://img.shields.io/badge/OPEN__TO-Internships_%26_Placements-16a34a?style=for-the-badge) |
 
 <div align="center">
 
