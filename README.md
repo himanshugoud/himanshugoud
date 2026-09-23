@@ -141,10 +141,7 @@ Live multi-floor parking availability with instant slot booking and no page relo
 
 ## 🎯 Current Focus
 
-|  |  |
-|:---|:---|
-| ![Learning](https://img.shields.io/badge/LEARNING-DSA_%26_System_Design-8b5cf6?style=for-the-badge) | ![Building](https://img.shields.io/badge/BUILDING-RaktSetu_%26_SmartPark-6d28d9?style=for-the-badge) |
-| ![Exploring](https://img.shields.io/badge/EXPLORING-Vercel_%C2%B7_Render_%C2%B7_Firebase-4c1d95?style=for-the-badge) | ![Open to](https://img.shields.io/badge/OPEN__TO-Internships_%26_Placements-16a34a?style=for-the-badge) |
+<img src="profile/focus-badges.svg" width="100%" />
 
 <div align="center">
 
