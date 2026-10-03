@@ -25,7 +25,8 @@ Built and deployed 2 tested, real-world applications — real-time architecture,
 </div>
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=c" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=html" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=css" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=react" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=express" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=git" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=github" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" /> <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" /> <img src="profile/icons/render.png" width="48" height="48" title="Render" />
+<img src="https://skillicons.dev/icons?i=js,c,cpp,html,css,react,vite,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,vercel,githubactions,vitest,sentry" />
+<img src="profile/icons/render.png" width="48" height="48" title="Render" />
 </div>
 
 <br/>
@@ -40,15 +41,15 @@ Built and deployed 2 tested, real-world applications — real-time architecture,
 <summary><b>RaktSetu — Emergency Blood Donor Network</b></summary>
 <br/>
 
-Matches urgent blood requests to nearby compatible donors in real time, replacing slow, easy-to-miss email alerts with an on-screen, callable, ranked donor list.
+Matches urgent blood requests to nearby compatible donors in real time.
 
 | | |
 |---|---|
-| **Stack** | React · Vite · Tailwind CSS · Node.js · Express · MongoDB · JWT |
-| **Scale** | 3-service free-tier deployment (Vercel / Render / MongoDB Atlas) |
-| **Performance** | 4-tier geo-radius escalation (10km → 100km) when local matches are sparse |
-| **Security** | JWT auth, token-based password reset, rate limiting, zero committed secrets |
-| **Impact** | Automates donor matching end-to-end; correctness validated with 17 automated Vitest tests covering compatibility and geo-distance logic |
+| **Stack** | React · Node.js · Express · MongoDB · JWT |
+| **Real-Time Matching** | Replaced slow, easy-to-miss email alerts with real-time MongoDB geospatial matching and Web Push notifications, confirmed working end-to-end in production |
+| **Testing** | 40 automated tests (Vitest, Supertest, React Testing Library) across unit, integration, and frontend layers — caught a MongoDB index race condition, which was then fixed |
+| **Accessibility** | Added ARIA error announcements, fixed a keyboard-focus CSS bug, and ensured status is never conveyed by color alone |
+| **Monitoring & CI** | Sentry error monitoring with PII scrubbing (emails, phone, GPS, tokens stripped before logging); GitHub Actions CI gating every push on the full test suite |
 
 <p>
 <a href="https://raktsetu-phi.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-27AE60?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -61,15 +62,15 @@ Matches urgent blood requests to nearby compatible donors in real time, replacin
 <summary><b>SmartPark — Real-Time Parking Management System</b></summary>
 <br/>
 
-Live multi-floor parking availability with instant slot booking and no page reloads.
+Live multi-floor parking availability with instant slot booking.
 
 | | |
 |---|---|
-| **Stack** | JavaScript · HTML5 · CSS3 · Firebase Realtime Database · Firebase Auth · Firebase Hosting |
-| **Scale** | Real-time sync across every connected client, multiple floors |
-| **Performance** | Load-tested at 50 concurrent writes — 100% success, zero conflicts; Lighthouse 100 Accessibility, 100 Best Practices |
-| **Security** | Firebase Auth (email/password + Google Sign-In), write-validated security rules; found and fixed a real session-isolation bug that leaked bookings across accounts |
-| **Impact** | 45 automated Vitest tests; CI/CD gates every deploy on the full suite passing |
+| **Stack** | JavaScript · Firebase · HTML5 · CSS3 |
+| **Real-Time Sync** | Synced 300 parking slots across 3 floors in real time via Firebase Realtime Database; load-tested at 50 concurrent writes with 100% success |
+| **Data Migration** | Migrated booking data to Firebase for cross-device sync; found and fixed a concurrency bug letting two users double-book the same slot |
+| **Accessibility** | Raised Lighthouse Accessibility from 83 to 100 by computing real WCAG contrast ratios per UI state, across both light and dark themes |
+| **CI/CD** | GitHub Actions pipeline running 45 automated tests on every push, blocking deployment whenever a test fails |
 
 <p>
 <a href="https://smartpark-hg.web.app/"><img src="https://img.shields.io/badge/Live_Demo-27AE60?style=for-the-badge&logo=firebase&logoColor=white" /></a>
